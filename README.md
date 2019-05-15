@@ -1,6 +1,6 @@
 # Backend Deploy TO ECS Fargate
 
-## Deploy Backend MicroService to ECS Fargage
+## Deploy Backend MicroService to ECS Fargate
 
 ### Step 1.1: Create our Task Definition
 What is an ECS Task Definition?
