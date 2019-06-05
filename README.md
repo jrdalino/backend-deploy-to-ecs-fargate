@@ -1,8 +1,8 @@
-# My Project Deploy Product Rest API To AWS ECS Fargate
+# My Project Deploy Service To AWS ECS Fargate
 
-## Deploy Product Rest API To ECS Fargate
+## Deploy Service To AWS ECS Fargate
 
-### Step 1.1: Create our Task Definition
+### Step 1.1: Create Task Definition file
 ```
 $ cd ~/environment/calculator-backend
 $ vi ~/environment/calculator-backend/aws-cli/task-definition.json
@@ -43,7 +43,7 @@ $ vi ~/environment/calculator-backend/aws-cli/task-definition.json
 }
 ```
 
-### Step 1.2: Create our Service
+### Step 1.2: Create Service
 ```
 $ vi ~/environment/calculator-backend/aws-cli/service-definition.json
 ```
