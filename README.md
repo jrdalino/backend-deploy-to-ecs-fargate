@@ -1,12 +1,10 @@
-# Backend Deploy TO ECS Fargate
+# My Project Deploy Product Rest API To AWS ECS Fargate
 
-## Deploy Backend MicroService to ECS Fargate
+## Deploy Product Rest API To ECS Fargate
 
 ### Step 1.1: Create our Task Definition
-What is an ECS Task Definition?
-- https://docs.aws.amazon.com/AmazonECS/latest/developerguide/task_definitions.html
-
 ```
+$ cd ~/environment/calculator-backend
 $ vi ~/environment/calculator-backend/aws-cli/task-definition.json
 ```
 
